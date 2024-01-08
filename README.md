@@ -1,4 +1,4 @@
-Hello, I'm Simon Paul 👋
+#Hello, I'm Simon Paul 👋
 
 Welcome to the coding playground! 🚀 I'm Simon Paul, a passionate explorer in the realm of advanced computer programming. Let me give you a glimpse into my coding journey:
 
@@ -8,4 +8,4 @@ Welcome to the coding playground! 🚀 I'm Simon Paul, a passionate explorer in 
 
 Dive into my repositories and witness the evolving tapestry of my coding adventures. Join me as I embrace the challenges and triumphs on the path of continuous learning and growth. 🌟
 
-Feel the pulse of the code, and let's create something amazing together! Happy coding! 🚀.
+Feel the pulse of the code, and let's create something amazing together! Happy coding! 🚀
