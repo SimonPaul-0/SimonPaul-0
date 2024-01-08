@@ -1,4 +1,4 @@
-#Hello, I'm Simon Paul 👋
+# Hello, I'm Simon Paul 👋
 
 Welcome to the coding playground! 🚀 I'm Simon Paul, a passionate explorer in the realm of advanced computer programming. Let me give you a glimpse into my coding journey:
 
