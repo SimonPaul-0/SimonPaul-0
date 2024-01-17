@@ -37,11 +37,11 @@ My ultimate goal is to become a prominent figure in the computer field, leveragi
 
 Here are a few projects I'm proud of:
 
-1. [Project One](https://github.com/SimonPaul/ProjectOne): Brief description.
-2. [Project Two](https://github.com/SimonPaul/ProjectTwo): Brief description.
-3. [Project Three](https://github.com/SimonPaul/ProjectThree): Brief description.
+1. [Project One](https://github.com/SimonPaul-0/EpicQuest-Text-Based-RPG-Adventure): Brief description.
+2. [Project Two](https://github.com/SimonPaul-0/Password-generator): Brief description.
+3. [Project Three](https://github.com/SimonPaul-0/SImple-calculator): Brief description.
 
-Feel free to explore my [GitHub repositories](https://github.com/SimonPaul) for more!
+Feel free to explore my [GitHub repositories](https://github.com/SimonPaul-0?tab=repositories) for more!
 
 ## 📬 How to Reach Me
 
