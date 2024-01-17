@@ -6,7 +6,7 @@
 
 <div align="center">
   
-  [![Linkedin: Simon Paul](https://img.shields.io/badge/-SimonPaul-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/simonpaul/)](https://www.linkedin.com/in/simonpaul/)
+  [![Linkedin: Simon Paul](https://img.shields.io/badge/-SimonPaul-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/simon-paul-4735b32a9/)](https://www.linkedin.com/in/simon-paul-4735b32a9/)
   [![GitHub SimonPaul](https://img.shields.io/github/followers/SimonPaul?label=follow&style=social)](https://github.com/SimonPaul)
   [![Contact: simonpaul055648@gmail.com](https://img.shields.io/badge/Contact-simonpaul055648%40gmail.com-green)](mailto:simonpaul055648@gmail.com)
   
