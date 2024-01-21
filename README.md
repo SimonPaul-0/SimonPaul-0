@@ -1,5 +1,3 @@
----
-
 # Hi 👋, I'm Simon Paul 
 
 <p align="center">
@@ -8,9 +6,9 @@
 
 <div align="center">
   
-[![Linkedin: Simon Paul](https://img.shields.io/badge/-SimonPaul-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/simon-paul-4735b32a9/)](https://www.linkedin.com/in/simon-paul-4735b32a9/)
-[![GitHub SimonPaul](https://img.shields.io/github/followers/SimonPaul?label=follow&style=social)](https://github.com/SimonPaul-0?tab=followers)
-[![Contact: simonpaul055648@gmail.com](https://img.shields.io/badge/Contact-simonpaul055648%40gmail.com-green)](mailto:simonpaul055648@gmail.com)
+  [![Linkedin: Simon Paul](https://img.shields.io/badge/-SimonPaul-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/simon-paul-4735b32a9/)](https://www.linkedin.com/in/simon-paul-4735b32a9/)
+  [![GitHub SimonPaul](https://img.shields.io/github/followers/SimonPaul?label=follow&style=social)](https://github.com/SimonPaul-0?tab=followers)
+  [![Contact: simonpaul055648@gmail.com](https://img.shields.io/badge/Contact-simonpaul055648%40gmail.com-green)](mailto:simonpaul055648@gmail.com)
   
 </div>
 
@@ -55,5 +53,3 @@ Feel free to explore my [GitHub repositories](https://github.com/SimonPaul-0?tab
 I'm always open to collaboration, exciting projects, and connecting with fellow tech enthusiasts. Feel free to reach out—I'd love to hear from you!
 
 <!-- Optional: Add sections like Contributions, License, or FAQs as needed. -->
-
----
