@@ -12,7 +12,7 @@
   
 </div>
 
-<img src="https://github.com/SimonPaul-0/gif/blob/main/icons8-github.gif" alt="Your Animation" width="200" height="100">
+<img src="https://github.com/SimonPaul-0/gif/blob/main/icons8-github.gif" alt="Your Animation" width="20" height="10">
 
 ## 🌍 Location
 
