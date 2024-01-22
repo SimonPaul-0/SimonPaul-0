@@ -54,5 +54,5 @@ I'm always open to collaboration, exciting projects, and connecting with fellow 
 
 <!-- Optional: Add sections like Contributions, License, or FAQs as needed. -->
 
-[![GitHub Logo](https://www.flaticon.com/free-icon/social_13053484?term=github&page=1&position=31&origin=tag&related_id=13053484)](https://your-github-profile-link)
+[![GitHub Logo](https://www.flaticon.com/free-icon/social_13053484?term=github&page=1&position=31&origin=tag&related_id=13053484)](https://github.com/SimonPaul-0)
 
