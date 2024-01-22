@@ -54,9 +54,5 @@ I'm always open to collaboration, exciting projects, and connecting with fellow 
 
 <!-- Optional: Add sections like Contributions, License, or FAQs as needed. -->
 
-  _____   _   _   _____   _       _   _   _____   _______ 
- |  __ \ | \ | | |  __ \ | |     | \ | | |  __ \ |__   __|
- | |__) ||  \| | | |  | || |     |  \| | | |__) |   | |   
- |  ___/ | . ` | | |  | || |     | . ` | |  _  /    | |   
- | |     | |\  | | |__| || |____ | |\  | | | \ \    | |   
- |_|     |_| \_| |_____/ |______||_| \_| |_|  \_\   |_|   
+[![GitHub Logo](https://www.flaticon.com/free-icon/social_13053484?term=github&page=1&position=31&origin=tag&related_id=13053484)](https://your-github-profile-link)
+
