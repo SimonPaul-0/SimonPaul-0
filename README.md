@@ -54,4 +54,4 @@ I'm always open to collaboration, exciting projects, and connecting with fellow 
 
 <!-- Optional: Add sections like Contributions, License, or FAQs as needed. -->
 
-[github-mark-c791e9551fe4.zip](https://github.com/SimonPaul-0/SimonPaul-0/files/14013258/github-mark-c791e9551fe4.zip)
+![GitHub Logo](<a target="_blank" href="https://icons8.com/icon/4MhUS4CzoLbx/github">GitHub</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>)
