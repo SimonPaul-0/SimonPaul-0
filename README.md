@@ -12,7 +12,7 @@
   
 </div>
 
-![Your Animation](https://github.com/SimonPaul-0/gif/blob/main/icons8-github.gif = 200x100)
+<img src="https://github.com/SimonPaul-0/gif/blob/main/icons8-github.gif" alt="Your Animation" width="200" height="100">
 
 ## 🌍 Location
 
