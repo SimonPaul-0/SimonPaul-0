@@ -53,5 +53,4 @@ Feel free to explore my [GitHub repositories](https://github.com/SimonPaul-0?tab
 I'm always open to collaboration, exciting projects, and connecting with fellow tech enthusiasts. Feel free to reach out—I'd love to hear from you!
 
 <!-- Optional: Add sections like Contributions, License, or FAQs as needed. -->
-
-![GitHub Logo](<a target="_blank" href="https://icons8.com/icon/4MhUS4CzoLbx/github">GitHub</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>)
+[GitHub](https://icons8.com/icon/4MhUS4CzoLbx/github) icon by [Icons8](https://icons8.com)
