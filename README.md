@@ -1,6 +1,3 @@
-![Your Animation](https://github.com/SimonPaul-0/gif/blob/main/icons8-github.gif)
-
-
 # Hi 👋, I'm Simon Paul 
 
 <p align="center">
@@ -14,6 +11,8 @@
   [![Contact: simonpaul055648@gmail.com](https://img.shields.io/badge/Contact-simonpaul055648%40gmail.com-green)](mailto:simonpaul055648@gmail.com)
   
 </div>
+
+![Your Animation](https://github.com/SimonPaul-0/gif/blob/main/icons8-github.gif = 200x100)
 
 ## 🌍 Location
 
