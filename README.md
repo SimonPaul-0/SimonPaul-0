@@ -53,11 +53,12 @@ Feel free to explore my [GitHub repositories](https://github.com/SimonPaul-0?tab
 I'm always open to collaboration, exciting projects, and connecting with fellow tech enthusiasts. Feel free to reach out—I'd love to hear from you!
 
 <!-- Optional: Add sections like Contributions, License, or FAQs as needed. -->
-
-  ______ _   _  _____ _   _ ____  _      _____ _______ 
- |  ____| \ | |/ ____| \ | |  _ \| |    |_   _|__   __|
- | |__  |  \| | |  __|  \| | |_) | |      | |    | |   
- |  __| | . ` | | |_ | . ` |  _ <| |      | |    | |   
- | |____| |\  | |__| | |\  | |_) | |____ _| |_   | |   
- |______|_| \_|\_____|_| \_|____/|______|_____|  |_|   
+  _   _                 _     _____           _    
+ | \ | |               | |   |  __ \         | |   
+ |  \| |_   _ _ __ ___ | |__ | |__) |__  _ __| | __
+ | . ` | | | | '_ ` _ \| '_ \|  _  // _ \| '__| |/ /
+ | |\  | |_| | | | | | | |_) | | \ \ (_) | |  |   < 
+ |_| \_|\__, |_| |_| |_|_.__/|_|  \_\___/|_|  |_|\_\
+         __/ |                                       
+        |___/                                        
 
