@@ -1,3 +1,6 @@
+![Your Animation](https://github.com/SimonPaul-0/gif/blob/main/icons8-github.gif)
+
+
 # Hi 👋, I'm Simon Paul 
 
 <p align="center">
@@ -53,5 +56,3 @@ Feel free to explore my [GitHub repositories](https://github.com/SimonPaul-0?tab
 I'm always open to collaboration, exciting projects, and connecting with fellow tech enthusiasts. Feel free to reach out—I'd love to hear from you!
 
 <!-- Optional: Add sections like Contributions, License, or FAQs as needed. -->
-
-![Your Animation](https://github.com/SimonPaul-0/gif/blob/main/icons8-github.gif)
