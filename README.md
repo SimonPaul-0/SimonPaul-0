@@ -54,3 +54,9 @@ I'm always open to collaboration, exciting projects, and connecting with fellow 
 
 <!-- Optional: Add sections like Contributions, License, or FAQs as needed. -->
 
+GitHub
+  __ _ _ __ ___  ___ _ __   __ _  __ _  ___ _ __
+ / _` | '__/ _ \/ _ \ '_ \ / _` |/ _` |/ _ \ '__|
+| (_| | | |  __/  __/ | | | (_| | (_| |  __/ |
+ \__, |_|  \___|\___|_| |_|\__,_|\__, |\___|_|
+ |___/                          |___/
