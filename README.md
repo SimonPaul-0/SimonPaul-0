@@ -34,7 +34,7 @@ Welcome to the coding playground! 🚀 I'm Simon Paul, a passionate explorer in 
 
 ## 💻 Skills
 
-- **Languages:** Python, C++, C, C#, JavaScript, TypeScript and learning...
+- **Languages:** Python, C++, C, C#, JavaScript, TypeScript, Java and many more to come...
 - **Tools & Technologies:** (Pycharm, Visual Studios, Visual Studio Code, and some more.)
 
 ## 🚀 Goals
