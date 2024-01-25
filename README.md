@@ -58,7 +58,7 @@ Feel free to explore my [GitHub repositories](https://github.com/SimonPaul-0?tab
 
 ## 🌐 Let's Connect
 
-I'm always open to collaboration, exciting projects, and connecting with fellow tech enthusiasts. Feel free to reach out—I'd love to hear from you.
-If you have any questions, need assistance, or encounter any issues, feel free to reach out to me. I'm here to help :)
+-I'm always open to collaboration, exciting projects, and connecting with fellow tech enthusiasts. Feel free to reach out—I'd love to hear from you.
+-If you have any questions, need assistance, or encounter any issues, feel free to reach out to me. I'm here to help :)
 
 <!-- Optional: Add sections like Contributions, License, or FAQs as needed. -->
