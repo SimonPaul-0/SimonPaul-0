@@ -10,12 +10,9 @@
   [![GitHub SimonPaul-0](https://img.shields.io/github/followers/SimonPaul-0?label=followers&style=social)](https://github.com/SimonPaul-0?tab=followers)
   [![Contact: simonpaul055648@gmail.com](https://img.shields.io/badge/Contact-simonpaul055648%40gmail.com-green)](mailto:simonpaul055648@gmail.com)
 
- _____   _   _   _   _   _   _   _   _____  
-|_   _| | |_| |_| |_| |_| |_| |_| | | ____| 
-  | |   |___|___|___|___|___|___|___| | |     
-  | |    ___ ___ ___ ___ ___ ___ ___| | |     
-  | |   |  _|  _|  _|  _|  _|  _|  _| | |____ 
-  |_|   |_| |_| |_| |_| |_| |_| |_| |_______|
+ /\_/\  
+( o.o ) 
+ > ^ <
 
 </div>
 
