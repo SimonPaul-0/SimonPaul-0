@@ -1,7 +1,7 @@
 # Hi 👋, I'm Simon Paul 
 
 <p align="center">
-  <img src="https://your-profile-image-url.jpg" alt="Simon Paul"> -- HAVEN'T STARTED (AVAILABLE SOON :)
+  <img src="https://your-profile-image-url.jpg" alt="Simon Paul"> -- IN PROGRESS :)
 </p>
 
 <div align="center">
