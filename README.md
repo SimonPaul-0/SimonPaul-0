@@ -52,7 +52,7 @@ Feel free to explore my [GitHub repositories](https://github.com/SimonPaul-0?tab
 ## 📬 How to Reach Me
 
 - **Email:** [simonpaul055648@gmail.com](mailto:simonpaul055648@gmail.com)
-- **LinkedIn:** [Simon Paul](https://www.linkedin.com/in/simon-paul-4735b32a9/)
+- **LinkedIn:** [Simon Paul](https://www.linkedin.com/in/simon-paul-r-4a886538b/)
 
 ## 🌐 Let's Connect
 
