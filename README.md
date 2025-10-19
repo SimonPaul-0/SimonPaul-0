@@ -1,12 +1,10 @@
 # Hi 👋, I'm Simon Paul 
 
-<p align="center">
-  <img src="https://your-profile-image-url.jpg" alt="Simon Paul"> -- IN PROGRESS :)
-</p>
+
 
 <div align="center">
  
-  [![LinkedIn SimonPaul-0](https://img.shields.io/badge/LinkedIn-SimonPaul--0-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/simonpaul-0-4735b32a9/)
+  [![LinkedIn SimonPaul-0](https://img.shields.io/badge/LinkedIn-SimonPaul--0-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/simon-paul-r-4a886538b/)
   ![GitHub SimonPaul-0](https://img.shields.io/github/followers/SimonPaul-0?label=followers&style=social)
   [![Contact: simonpaul055648@gmail.com](https://img.shields.io/badge/Contact-simonpaul055648%40gmail.com-green)](mailto:simonpaul055648@gmail.com)
 
