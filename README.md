@@ -7,6 +7,7 @@
   [![LinkedIn SimonPaul-0](https://img.shields.io/badge/LinkedIn-SimonPaul--0-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/simon-paul-r-4a886538b/)
   ![GitHub SimonPaul-0](https://img.shields.io/github/followers/SimonPaul-0?label=followers&style=social)
   [![Contact: simonpaul055648@gmail.com](https://img.shields.io/badge/Contact-simonpaul055648%40gmail.com-green)](mailto:simonpaul055648@gmail.com)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-simonpaul--portfolio.vercel.app-brightgreen?style=flat-square)](https://simonpaul-portfolio.vercel.app/)
 
 
  
