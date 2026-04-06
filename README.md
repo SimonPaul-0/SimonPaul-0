@@ -1,63 +1,95 @@
-# Hi 👋, I'm Simon Paul 
-
-
+# Hi 👋, I'm Simon Paul
 
 <div align="center">
- 
-  [![LinkedIn SimonPaul-0](https://img.shields.io/badge/LinkedIn-SimonPaul--0-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/simon-paul-r-4a886538b/)
-  ![GitHub SimonPaul-0](https://img.shields.io/github/followers/SimonPaul-0?label=followers&style=social)
-  [![Contact: simonpaul055648@gmail.com](https://img.shields.io/badge/Contact-simonpaul055648%40gmail.com-green)](mailto:simonpaul055648@gmail.com)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-simonpaul--portfolio.vercel.app-brightgreen?style=flat-square)](https://simonpaul-portfolio.vercel.app/)
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Simon%20Paul-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/simon-paul-r-4a886538b/)
+![GitHub Followers](https://img.shields.io/github/followers/SimonPaul-0?label=followers&style=social)
+[![Email](https://img.shields.io/badge/Contact-simonpaul055648%40gmail.com-green)](mailto:simonpaul055648@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-simonpaul--portfolio.vercel.app-brightgreen?style=flat-square)](https://simonpaul-portfolio.vercel.app/)
 
- 
-      /\_/\  
-     ( o.o ) 
-    > ^ <
-
-
- 
 </div>
 
-## 🌍 Location
+---
 
-Chennai, TN, India
+## 🌍 Location
+Chennai, Tamil Nadu, India
 
 ## 🚀 About Me
 
-Welcome to the coding playground! 🚀 I'm Simon Paul, a passionate explorer in the realm of advanced computer programming. Let me give you a glimpse into my coding journey:
+I'm a Computer Science student at **SRM Institute of Science and Technology**, building full-stack products, competing in hackathons, and shipping things that actually work.
 
-- 🌱 Currently immersed in the exciting world of basic coding, unlocking the secrets of various languages and concepts.
-- 💞️ Eager to collaborate on innovative projects with fellow enthusiasts in the vast programming universe.
-- 📫 Reach out to me at [simonpaul055648@gmail.com](mailto:simonpaul055648@gmail.com) for any collaborations, ideas, or just a friendly chat.
+- 🏆 **1st Place — TECH-PULSE'26** hackathon
+- 🌐 Building live dashboards, fintech tools, and AI-powered web apps
+- 🤖 Part of **BOTSQUAD** — a team that builds fast and ships faster
+- 💞️ Open to collaborations on ambitious, real-world projects
+- 📫 Reach me at [simonpaul055648@gmail.com](mailto:simonpaul055648@gmail.com)
+
+---
 
 ## 💻 Skills
 
-- **Languages:** Python, C++, C, C#, JavaScript, TypeScript, Java and many more to come...
-- **Tools & Technologies:** (Pycharm, Visual Studios, Visual Studio Code, and some more.)
+**Languages:** Python, JavaScript, TypeScript, C++, C, C#, Java
 
-## 🚀 Goals
+**Frontend:** React, Three.js, HTML/CSS, Tailwind CSS
 
-My ultimate goal is to become a prominent figure in the computer field, leveraging my skills to create innovative solutions and positively impact the tech community. I am committed to continuous learning and improvement, aiming for excellence in every project I undertake.
+**Backend & Tools:** Node.js, Vercel, Git/GitHub, VS Code, PyCharm
+
+**Other:** REST APIs, IoT simulation, PDF processing, on-device AI, OpenEnv
+
+---
 
 ## 🛠️ Projects
 
-Here are a few projects I'm proud of:
+### 🌍 [ClimateAI](https://climate-ai-theta.vercel.app) — Global Climate Operations Dashboard
+A live climate monitoring platform supporting **11 cities** with 24 simulated IoT sensors, real-time charts, an alert console, a 3D interactive globe, and a **Claude-powered AI Analyst** tab. Built as a three-file Vercel deployment.
+> `React` `Three.js` `Claude API` `Vercel`
 
-1. [RPG Game](https://github.com/SimonPaul-0/EpicQuest-Text-Based-RPG-Adventure): This is a text-based RPG in Python. It includes classes for characters, enemies, and a game manager. Players create characters, battle enemies, and can restart after defeat. The game runs in the console, featuring basic progression and randomization.
-2. [Password Generator](https://github.com/SimonPaul-0/Password-generator): This is a Python script for generating passwords. Users input desired length and preferences for uppercase letters, digits, and special characters. The script creates a password using the specified criteria and displays the result.
-3. [MultiTimer-Suite](https://github.com/SimonPaul-0/MultiTimer-Suite): This concise C++ program offers timer functionality with start, lap recording, pause/resume, and stop features. Additionally, it provides time display options for the current time and time in specified countries. The program ensures robust input handling and includes exception management. Users can effortlessly start, record laps, pause, and stop the timer, while also checking the current time or exploring time in different countries. The program is designed for simplicity, versatility, and ease of use.
+---
 
-Feel free to explore my [GitHub repositories](https://github.com/SimonPaul-0?tab=repositories) for more!
+### 💳 [CreditDNA](https://credit-dna.vercel.app) — AI Credit Scoring for Unbanked Indians
+Fintech app that generates a **300–900 credit score** from UPI transaction behavior using on-device AI. Targets the unbanked population with a PDF OCR pipeline (PDF.js → Canvas → Tesseract.js) for GPay statements.
+> `JavaScript` `Tesseract.js` `PDF.js` `LocalStorage`
 
-## 📬 How to Reach Me
+---
+
+### 🤖 [DataCleaningEnv](https://simonpaul06-data-cleaning-env.hf.space) — OpenEnv AI Environment
+An **OpenEnv-compliant** reinforcement learning environment for AI-driven data cleaning tasks. Deployed to Hugging Face Spaces and built for the OpenEnv x Meta/PyTorch hackathon on Scaler.
+> `Python` `OpenEnv` `Hugging Face Spaces`
+
+---
+
+### 🎮 Workout Ranking App — RPG Fitness Tracker
+A fitness tracker with **RPG aesthetics**, 10 rank tiers, harsh weekly resets, and a progression system that makes workouts feel like leveling up.
+> `React` `Tailwind CSS`
+
+---
+
+### Older Projects
+- [EpicQuest — Text-Based RPG](https://github.com/SimonPaul-0/EpicQuest-Text-Based-RPG-Adventure) — Python console RPG with characters, enemies, and randomized progression
+- [Password Generator](https://github.com/SimonPaul-0/Password-generator) — Configurable Python password generator
+- [MultiTimer-Suite](https://github.com/SimonPaul-0/MultiTimer-Suite) — C++ timer with lap recording, pause/resume, and world clock
+
+Explore all repos → [github.com/SimonPaul-0](https://github.com/SimonPaul-0?tab=repositories)
+
+---
+
+## 🏆 Hackathons
+
+| Event | Result |
+|---|---|
+| TECH-PULSE'26 | 🥇 1st Place |
+| HackNova | Competed |
+| GEO HACK 1.0 | Competed |
+| Titanium 2026 | Competed |
+| PyQuest | Competed |
+| OpenEnv x Meta/PyTorch (Scaler) | Competed |
+
+---
+
+## 📬 Connect
 
 - **Email:** [simonpaul055648@gmail.com](mailto:simonpaul055648@gmail.com)
 - **LinkedIn:** [Simon Paul](https://www.linkedin.com/in/simon-paul-r-4a886538b/)
+- **Portfolio:** [simonpaul-portfolio.vercel.app](https://simonpaul-portfolio.vercel.app/)
 
-## 🌐 Let's Connect
-
-- I'm always open to collaboration, exciting projects, and connecting with fellow tech enthusiasts. Feel free to reach out—I'd love to hear from you.
-- If you have any questions, need assistance, or encounter any issues, feel free to reach out to me. I'm here to help :)
-
-<!-- Optional: Add sections like Contributions, License, or FAQs as needed. -->
+Always open to interesting projects, hackathon collabs, and good conversations. Let's build something.
