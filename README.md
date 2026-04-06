@@ -8,6 +8,9 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-simonpaul--portfolio.vercel.app-brightgreen?style=flat-square)](https://simonpaul-portfolio.vercel.app/)
 
 </div>
+      /\_/\  
+     ( o.o ) 
+    > ^ <
 
 ---
 
@@ -71,20 +74,6 @@ A fitness tracker with **RPG aesthetics**, 10 rank tiers, harsh weekly resets, a
 
 Explore all repos → [github.com/SimonPaul-0](https://github.com/SimonPaul-0?tab=repositories)
 
----
-
-## 🏆 Hackathons
-
-| Event | Result |
-|---|---|
-| TECH-PULSE'26 | 🥇 1st Place |
-| HackNova | Competed |
-| GEO HACK 1.0 | Competed |
-| Titanium 2026 | Competed |
-| PyQuest | Competed |
-| OpenEnv x Meta/PyTorch (Scaler) | Competed |
-
----
 
 ## 📬 Connect
 
