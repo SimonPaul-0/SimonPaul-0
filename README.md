@@ -8,10 +8,10 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-simonpaul--portfolio.vercel.app-brightgreen?style=flat-square)](https://simonpaul-portfolio.vercel.app/)
 
 </div>
+ 
       /\_/\  
      ( o.o ) 
     > ^ <
-
 ---
 
 ## 🌍 Location
